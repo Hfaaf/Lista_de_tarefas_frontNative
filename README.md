@@ -34,9 +34,11 @@ CreateEditScreen.tsx services/ api.ts types/ Task.ts
 
 ## Instalação
 
-npm install npx expo install @react-native-community/datetimepicker
+npm install
+npx expo install
 
 ## Configuração API
+ultilize a api que está neste [repositorio](https://github.com/Hfaaf/Lista_de_tarefas_backMONGOOSE)
 
 Edite src/services/api.ts com seu IP local.
 
